@@ -1,12 +1,47 @@
 {
-  "name": "@ptomasroos/react-native-multi-slider",
-  "version": "1.0.0",
-  "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
-  "main": "MultiSlider.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ptomasroos/react-native-multi-slider.git"
+  "_from": "@ptomasroos/react-native-multi-slider@0.0.12",
+  "_id": "@ptomasroos/react-native-multi-slider@0.0.12",
+  "_inBundle": false,
+  "_integrity": "sha512-fksUn9NmWg1d4PXMP0Tvhjzne24fRh9APRRfE0oAcHyQQVqh4Mzz2jz9rwG0rg/1rBl7pyyJp1Vat+VdDmOxjA==",
+  "_location": "/@ptomasroos/react-native-multi-slider",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ptomasroos/react-native-multi-slider@0.0.12",
+    "name": "@ptomasroos/react-native-multi-slider",
+    "escapedName": "@ptomasroos%2freact-native-multi-slider",
+    "scope": "@ptomasroos",
+    "rawSpec": "0.0.12",
+    "saveSpec": null,
+    "fetchSpec": "0.0.12"
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ptomasroos/react-native-multi-slider/-/react-native-multi-slider-0.0.12.tgz",
+  "_shasum": "db2f2c4006a347e293ad06c6fbb16f75bea7c8c3",
+  "_spec": "@ptomasroos/react-native-multi-slider@0.0.12",
+  "_where": "/Users/karnikasingh/Desktop/ReactNativeProjects/MagentoBaseApp",
+  "author": {
+    "name": "Tomas Roos",
+    "email": "ptomasroos@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ptomasroos/react-native-multi-slider/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
+  "devDependencies": {
+    "babel-eslint": "7.2.3",
+    "eslint": "3.19.0",
+    "eslint-config-airbnb": "14.1.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "4.0.0",
+    "eslint-plugin-react": "6.10.3"
+  },
+  "homepage": "https://github.com/ptomasroos/react-native-multi-slider#readme",
   "keywords": [
     "react-native-multi-slider",
     "react-component",
@@ -20,23 +55,17 @@
     "ios",
     "android"
   ],
-  "author": "Tomas Roos <ptomasroos@gmail.com>",
   "license": "MIT",
+  "main": "MultiSlider.js",
+  "name": "@ptomasroos/react-native-multi-slider",
   "peerDependencies": {
     "react-native": "*",
     "react": "*",
     "prop-types": "*"
   },
-  "devDependencies": {
-    "babel-eslint": "7.2.3",
-    "eslint": "3.19.0",
-    "eslint-config-airbnb": "14.1.0",
-    "eslint-plugin-import": "2.2.0",
-    "eslint-plugin-jsx-a11y": "4.0.0",
-    "eslint-plugin-react": "6.10.3"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptomasroos/react-native-multi-slider.git"
   },
-  "bugs": {
-    "url": "https://github.com/ptomasroos/react-native-multi-slider/issues"
-  },
-  "homepage": "https://github.com/ptomasroos/react-native-multi-slider#readme"
+  "version": "0.0.12"
 }

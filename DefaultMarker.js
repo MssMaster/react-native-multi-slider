@@ -11,7 +11,6 @@ export default class DefaultMarker extends React.Component {
     pressedMarkerStyle: ViewPropTypes.style,
     markerStyle: ViewPropTypes.style,
     enabled: PropTypes.bool,
-    currentValue: PropTypes.number,
     valuePrefix: PropTypes.string,
     valueSuffix: PropTypes.string,
   };
